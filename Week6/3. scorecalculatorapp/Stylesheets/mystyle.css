@@ -1,0 +1,15 @@
+.score-card {
+  width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #f3f3f3;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.heading {
+  text-align: center;
+  color: red;
+  margin-bottom: 20px;
+}
